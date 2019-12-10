@@ -13,7 +13,7 @@ let calendar = new FullCalendar.Calendar(calendarEl, {
 
   googleCalendarApiKey: 'AIzaSyAXEooFECyzZkWhmqEi92eNOmP16wJ0VQw',
   events: {
-    googleCalendarId: 'elid1pn597lu7t1p2ldc3ia5jo@group.calendar.google.com'
+    googleCalendarId: 'bu3aifa98rv4509qp6p3n7fb88@group.calendar.google.com'
   }
 });
 
